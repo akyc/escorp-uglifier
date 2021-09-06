@@ -3,4 +3,3 @@ Thumbs.db
 /dist/
 /node_modules/
 /.git/
-package-lock.json
