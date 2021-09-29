@@ -6,16 +6,16 @@
    git clone https://github.com/akyc/escorp-uglifier.git
    ```
    ```bash 
-   $ npm i gulp -g
+   npm i gulp -g
    ```
    ```bash
-   $ cd escorp-uglifier
+   cd escorp-uglifier
    ```
    ```bash
-   $ npm i
+   npm i
    ```
    ```bash
-   $ code .
+   code .
    ```
 3. Указать папки с исходниками в [gulpfile.js](gulpfile.js), строки 7-10, по умолчанию `src/css` и `src/js`.
 4. Воспользоваться одной из команд `$ npm run css` или `$ npm run js`
