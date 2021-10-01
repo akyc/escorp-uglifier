@@ -17,6 +17,6 @@
    ```bash
    code .
    ```
-3. Указать папки с исходниками в [gulpfile.js](gulpfile.js), строки 7-10, по умолчанию `src/css` и `src/js`.
+3. Указать папки с исходниками в [gulpfile.js](gulpfile.js#L7-L10), по умолчанию `src/css` и `src/js`.
 4. Воспользоваться одной из команд `$ npm run css` или `$ npm run js`
 5. Забрать результат из папки `dist`
