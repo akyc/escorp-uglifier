@@ -3,13 +3,10 @@
 1. Устновить LTS-версию [Node.js](https://nodejs.org/en/download/)
 2. Запустить терминал / консоль в нужной папке:
    ```bash 
-   git clone https://github.com/akyc/escorp-uglifier.git
+   git clone https://github.com/akyc/escorp-uglifier.git && cd escorp-uglifier
    ```
    ```bash 
    npm i gulp -g
-   ```
-   ```bash
-   cd escorp-uglifier
    ```
    ```bash
    npm i
